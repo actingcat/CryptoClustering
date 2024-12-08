@@ -1,1 +1,2 @@
 # CryptoClustering
+For this assignment, we were tasked with using unsupervised learning to analyse crypo currency. First, we scaled the data and created a DataFrame. Then, we used the elbow method to find the best value for k. After taht, we created clusters using the k-means model. An hvplot was generated with "price_change_percentage_24h" on the xaxis and "price_change_percentage_7d" on the yaxis. We performed a Principal Component Analysis to reduce the features to three principal components. 
